@@ -1,0 +1,456 @@
+{
+  "survey": [
+    {
+      "endDate": "2022-06-04T15:42:59.000Z",
+      "document_name": "Đề tài khảo sát sức khoẻ học sinh",
+      "doc_desc": "Đề tài khảo sát sức khoẻ học sinh chi tiết213123123231223123",
+      "questions": [
+        {
+          "questionText": "Học sinh nên học bao nhiêu buổi một tuần?",
+          "answer": false,
+          "answerKey": "",
+          "questionType": "radio",
+          "options": [
+            {
+              "optionText": "6 buổi"
+            },
+            {
+              "optionText": "7 buổi"
+            },
+            {
+              "optionText": "5 buổi"
+            },
+            {
+              "optionText": "khác"
+            }
+          ],
+          "open": false,
+          "required": false
+        },
+        {
+          "questionText": "Những môn học cần thiết cho trẻ mầm non?",
+          "questionType": "checkbox",
+          "options": [
+            {
+              "optionText": "Tiếng Anh"
+            },
+            {
+              "optionText": "Múa"
+            },
+            {
+              "optionText": "Mỹ Thuật"
+            },
+            {
+              "optionText": "Võ"
+            }
+          ],
+          "open": false,
+          "required": false
+        },
+        {
+          "questionText": "Nêu ý kiến của bạn về tiêm phòng cho trẻ em?",
+          "questionType": "text",
+          "options": [
+            {
+              "optionText": ""
+            }
+          ],
+          "open": true,
+          "required": false
+        }
+      ],
+      "id": "fa3adad-688-bc3-d78d-6cd43e425d6a"
+    },
+    {
+      "endDate": "2022-06-01T15:43:17.000Z",
+      "document_name": "T7 kiểm tra",
+      "doc_desc": "Mô tả biểu mẫuT7 kiểm tra",
+      "questions": [
+        {
+          "questionText": "Question1",
+          "answer": false,
+          "answerKey": "",
+          "questionType": "radio",
+          "options": [
+            {
+              "optionText": "Option 1"
+            }
+          ],
+          "open": false,
+          "required": false
+        },
+        {
+          "questionText": "Question2",
+          "questionType": "checkbox",
+          "options": [
+            {
+              "optionText": "Option1"
+            },
+            {
+              "optionText": "Option 2"
+            }
+          ],
+          "open": true,
+          "required": false
+        }
+      ],
+      "id": "325040a-0e7e-6800-2301-6453723b335"
+    },
+    {
+      "endDate": "2022-06-11T15:43:25.000Z",
+      "document_name": "Mẫu không có tiêu đềT7 kiểm traT7 kiểm tra",
+      "doc_desc": "Mô tả biểu mẫuT7 kiểm traT7 kiểm tra",
+      "questions": [
+        {
+          "questionText": "QuestionT7 kiểm tra",
+          "answer": false,
+          "answerKey": "",
+          "questionType": "radio",
+          "options": [
+            {
+              "optionText": "Option 1"
+            }
+          ],
+          "open": false,
+          "required": false
+        },
+        {
+          "questionText": "Question",
+          "questionType": "checkbox",
+          "options": [
+            {
+              "optionText": "Option1"
+            },
+            {
+              "optionText": "Option 2"
+            }
+          ],
+          "open": true,
+          "required": false
+        }
+      ],
+      "id": "ca63f58-a548-7073-465f-4ca3223707"
+    },
+    {
+      "endDate": "2022-06-08T15:42:47.000Z",
+      "document_name": "Mai thiMai thiMai thi",
+      "doc_desc": "Mai thiMai thiMai thiMai thiMai thi",
+      "questions": [
+        {
+          "questionText": "Mai thiMai thi",
+          "answer": false,
+          "answerKey": "",
+          "questionType": "checkbox",
+          "options": [
+            {
+              "optionText": "Option 1"
+            },
+            {
+              "optionText": "Option 2"
+            },
+            {
+              "optionText": "Option 3"
+            },
+            {
+              "optionText": "Option 4"
+            }
+          ],
+          "open": false,
+          "required": false
+        },
+        {
+          "questionText": "Mai thi rồiMai thi rồi",
+          "questionType": "radio",
+          "options": [
+            {
+              "optionText": "Option1"
+            },
+            {
+              "optionText": "Option 2"
+            },
+            {
+              "optionText": "Option 3"
+            }
+          ],
+          "open": true,
+          "required": false
+        }
+      ],
+      "id": "4851e26-857-a803-13ac-cbf324b1c6"
+    },
+    {
+      "id": "da1d56-a18d-1b-42f8-cd65ffb60c78",
+      "endDate": "2022-06-16T10:24:10.000Z",
+      "dateCreate": 1654338250464,
+      "document_name": "Báo cáo nhóm Toang C#",
+      "doc_desc": "Báo cáo nhóm Toang C#",
+      "questions": [
+        {
+          "questionText": "Toang 1",
+          "answer": false,
+          "answerKey": "",
+          "questionType": "radio",
+          "options": [
+            {
+              "optionText": "Option 1"
+            },
+            {
+              "optionText": "Option 2"
+            },
+            {
+              "optionText": "Option 3"
+            }
+          ],
+          "open": false,
+          "required": false
+        },
+        {
+          "questionText": "Toang 2",
+          "questionType": "checkbox",
+          "options": [
+            {
+              "optionText": "Option1"
+            },
+            {
+              "optionText": "Option 2"
+            },
+            {
+              "optionText": "Option 3"
+            }
+          ],
+          "open": false,
+          "required": false
+        },
+        {
+          "questionText": "Toang 3",
+          "questionType": "text",
+          "options": [
+            {
+              "optionText": ""
+            }
+          ],
+          "open": true,
+          "required": false
+        }
+      ]
+    },
+    {
+      "id": "16deb38-48da-a53d-0db4-53b30be4d76",
+      "endDate": "2022-06-18T11:24:50.000Z",
+      "dateCreate": 1654341890870,
+      "document_name": "Báo cáo nhóm Toang C#",
+      "doc_desc": "Báo cáo nhóm Toang C#",
+      "questions": [
+        {
+          "questionText": "Nhóm này có toang thật không?",
+          "answer": false,
+          "answerKey": "",
+          "questionType": "radio",
+          "options": [
+            {
+              "optionText": "Có"
+            },
+            {
+              "optionText": "Xem xét"
+            },
+            {
+              "optionText": "Không"
+            },
+            {
+              "optionText": "Khác"
+            }
+          ],
+          "open": false,
+          "required": false
+        },
+        {
+          "questionText": "Ưu điểm của nhóm ToangC# là gì ?",
+          "questionType": "checkbox",
+          "options": [
+            {
+              "optionText": "Xin nghỉ để OT"
+            },
+            {
+              "optionText": "Yêu thầy"
+            },
+            {
+              "optionText": "Nhóm một đằng code một nẻo"
+            }
+          ],
+          "open": false,
+          "required": false
+        },
+        {
+          "questionText": "Ý kiến của bạn về nhóm này",
+          "questionType": "text",
+          "options": [
+            {
+              "optionText": ""
+            }
+          ],
+          "open": true,
+          "required": false
+        }
+      ]
+    },
+    {
+      "id": "ddd51b0-48f7-f755-b51f-f16ca1b736c",
+      "endDate": "2022-07-15T05:34:13.000Z",
+      "dateCreate": 1654580053842,
+      "document_name": "Đề tài về tai nạn giao thông",
+      "doc_desc": "Đề tài về tai nạn giao thông",
+      "questions": [
+        {
+          "questionText": "Question1",
+          "answer": false,
+          "answerKey": "",
+          "questionType": "radio",
+          "options": [
+            {
+              "optionText": "Option 1"
+            },
+            {
+              "optionText": "Option 2"
+            },
+            {
+              "optionText": "Option 3"
+            }
+          ],
+          "open": true,
+          "required": false
+        }
+      ]
+    }
+  ],
+  "answer_request": [
+    {
+      "id": "10b5d8d-660c-c7d-215-c0dac6a3680e_47_697",
+      "cloumn": "kek@gmail.com",
+      "doc_name": "Mẫu không có tiêu đề321",
+      "list_answer": [
+        {
+          "question": "Question1",
+          "answer": "Option 1"
+        },
+        {
+          "question": "Question2",
+          "answer": " ,Option1,Option1"
+        }
+      ]
+    },
+    {
+      "id": "fa3adad-688-bc3-d78d-6cd43e425d6a_37_736",
+      "cloumn": "bqminh30@gmail.com",
+      "doc_name": "Đề tài khảo sát sức khoẻ học sinh",
+      "list_answer": [
+        {
+          "question": "Học sinh nên học bao nhiêu buổi một tuần?",
+          "answer": "khác"
+        },
+        {
+          "question": "Những môn học cần thiết cho trẻ mầm non?",
+          "answer": " ,Múa,Tiếng Anh,Võ"
+        },
+        {
+          "question": "Nêu ý kiến của bạn về tiêm phòng cho trẻ em?",
+          "answer": "Khôn"
+        }
+      ]
+    },
+    {
+      "id": "4851e26-857-a803-13ac-cbf324b1c6_30_825",
+      "cloumn": "bqminh30@gmail.com",
+      "doc_name": "Mai thiMai thiMai thi",
+      "list_answer": [
+        {
+          "question": "Mai thiMai thi",
+          "answer": " ,Option 1,Option 2,Option 4"
+        },
+        {
+          "question": "Mai thi rồiMai thi rồi",
+          "answer": "Option 3"
+        }
+      ]
+    },
+    {
+      "id": "4851e26-857-a803-13ac-cbf324b1c6_8_142",
+      "cloumn": "minh@gmail.com",
+      "doc_name": "Mai thiMai thiMai thi",
+      "list_answer": [
+        {
+          "question": "Mai thiMai thi",
+          "answer": " ,Option 1,Option 4"
+        },
+        {
+          "question": "Mai thi rồiMai thi rồi",
+          "answer": "Option1"
+        }
+      ]
+    },
+    {
+      "id": "16deb38-48da-a53d-0db4-53b30be4d76_4_966",
+      "cloumn": "bqminh30@gmail.com",
+      "doc_name": "Báo cáo nhóm Toang C#",
+      "list_answer": [
+        {
+          "question": "Ưu điểm của nhóm ToangC# là gì ?",
+          "answer": " ,Xin nghỉ để OT,Yêu thầy,Nhóm một đằng code một nẻo"
+        },
+        {
+          "question": "Ý kiến của bạn về nhóm này",
+          "answer": "Cho làm lại"
+        },
+        {
+          "question": "Nhóm này có toang thật không?",
+          "answer": " "
+        },
+        {
+          "question": "Ưu điểm của nhóm ToangC# là gì ?",
+          "answer": " "
+        },
+        {
+          "question": "Ý kiến của bạn về nhóm này",
+          "answer": " "
+        }
+      ]
+    },
+    {
+      "id": "16deb38-48da-a53d-0db4-53b30be4d76_44_715",
+      "cloumn": "bqminh30@gmail.com",
+      "doc_name": "Báo cáo nhóm Toang C#",
+      "list_answer": [
+        {
+          "question": "Nhóm này có toang thật không?",
+          "answer": "Có"
+        },
+        {
+          "question": "Ưu điểm của nhóm ToangC# là gì ?",
+          "answer": " ,Xin nghỉ để OT,Yêu thầy"
+        },
+        {
+          "question": "Ý kiến của bạn về nhóm này",
+          "answer": "Không có"
+        }
+      ]
+    },
+    {
+      "id": "da1d56-a18d-1b-42f8-cd65ffb60c78_14_727",
+      "cloumn": "bqminh30@gmail.com",
+      "doc_name": "Báo cáo nhóm Toang C#",
+      "list_answer": [
+        {
+          "question": "Toang 1",
+          "answer": "Option 3"
+        },
+        {
+          "question": "Toang 2",
+          "answer": " ,Option1,Option 2"
+        },
+        {
+          "question": "Toang 3",
+          "answer": "Không"
+        }
+      ]
+    }
+  ]
+}
